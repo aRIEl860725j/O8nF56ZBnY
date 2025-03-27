@@ -51,7 +51,6 @@ Please make sure your code adheres to our [style guidelines](#style-guidelines).
 
 Maintaining consistent coding style is important for the project's readability. Follow these guidelines when submitting code:
 
-- Use consistent indentation (spaces).
 - Keep lines under 80 characters for code, and under 120 characters for comments and documentation.
 - Write clear and descriptive variable and function names.
 - Document your code using comments or docstrings.
