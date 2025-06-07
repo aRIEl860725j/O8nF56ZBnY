@@ -1,4 +1,3 @@
-## [Unreleased]
 
 ## Added
 - Azurerm added new resource: `azurerm_network_interface_security_group_association`
