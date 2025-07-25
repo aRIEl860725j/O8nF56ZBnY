@@ -1,5 +1,4 @@
 verbose = "info"
-
 exclude = [
     # Availability of links below should be manually verified.
     # Page for intel SGX support, returns 403 while querying.
